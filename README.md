@@ -10,6 +10,6 @@ This app contains data from the following publications.
 - **Parallel neural pathways control sodium consumption and taste valence**  
   Yameng Zhang, Allan-Hermann Pool, Tongtong Wang, Lu Liu, Elin Kang, Bei Zhang, Liang Ding, Kirsten Frieda, Richard Palmiter & Yuki Oka. *Cell*, 2023  
 
-The browser is designed to be plug-and-play, so other labs can adapt the data processing and analysis steps to host and share their own transcriptomic datasets stored in .h5ad format.
+The browser is designed to be plug-and-play, so other labs can adapt the data processing and analysis steps to host and share their own multi-condition transcriptomic datasets stored in .h5ad format.
 
 For more information visit our SFO Gene Browser at http://okalabtools.com/
